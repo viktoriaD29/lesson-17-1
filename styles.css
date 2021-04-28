@@ -15,3 +15,7 @@ th, td {
   padding: 4px;
   text-align: right;
 }
+
+caption {
+  text-align: center;
+}
